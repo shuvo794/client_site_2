@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyAhLi22DHPFzgIuvtf25puZ5s8GPuTuFqs",
-  authDomain: "vercity-auth.firebaseapp.com",
-  projectId: "vercity-auth",
-  storageBucket: "vercity-auth.appspot.com",
-  messagingSenderId: "331392547610",
-  appId: "1:331392547610:web:b8c6ac3168365b33bbcaa3",
+  apiKey: "AIzaSyAUVuabK1N9dJW_PyZ8L32SiL5epS489uw",
+  authDomain: "mega-eb5df.firebaseapp.com",
+  projectId: "mega-eb5df",
+  storageBucket: "mega-eb5df.appspot.com",
+  messagingSenderId: "888722508371",
+  appId: "1:888722508371:web:0f0833b8b617fae52a54a6",
 };
 
 export default firebaseConfig;
